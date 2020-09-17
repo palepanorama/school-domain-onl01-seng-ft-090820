@@ -25,4 +25,5 @@ class School
       x 
     end 
   end 
+  end 
 end 
