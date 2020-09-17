@@ -18,12 +18,8 @@ class School
   end 
   
   def grade(level)
-    roster.detect do |x, y|
-      if x == level 
-        return y 
-     end 
-   end 
-   def sort 
+    
+  end 
      
    end 
   end 
